@@ -1,2 +1,2 @@
 # ackDeployTest
-![link](https://amaheshwari01.github.io/WaterHackDeployTest/)
+[link](https://amaheshwari01.github.io/WaterHackDeployTest/)
